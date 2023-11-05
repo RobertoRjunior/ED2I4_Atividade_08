@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Atividade21_12_01
+namespace Atividade_08
 {
     class Log
     {
