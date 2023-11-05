@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IFSP\\ED2I4\\Atividade21-12-01\\Atividade21-12-01.csproj",
-      "projectName": "Atividade21-12-01",
-      "projectPath": "D:\\IFSP\\ED2I4\\Atividade21-12-01\\Atividade21-12-01.csproj",
+      "projectUniqueName": "D:\\IFSP\\ED2I4\\Atividade`08\\Atividade`08.csproj",
+      "projectName": "Atividade`08",
+      "projectPath": "D:\\IFSP\\ED2I4\\Atividade`08\\Atividade`08.csproj",
       "packagesPath": "C:\\Users\\roberto\\.nuget\\packages\\",
-      "outputPath": "D:\\IFSP\\ED2I4\\Atividade21-12-01\\obj\\",
+      "outputPath": "D:\\IFSP\\ED2I4\\Atividade`08\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
